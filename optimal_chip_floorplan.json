@@ -1,0 +1,30 @@
+{
+    "optimal_reward": -49.0,
+    "wirelength_mm": 49.0,
+    "baseline_wirelength_mm": 106.0,
+    "improvement_pct": 53.77358490566038,
+    "ppa_metrics": {
+        "area_util_pct": 22.04861111111111,
+        "total_energy_uj": 14.96,
+        "latency_ns": 22.0,
+        "gops": 5.818181818181818
+    },
+    "floorplan_coordinates": {
+        "MAC_Array": [
+            10,
+            8
+        ],
+        "SRAM_Weight": [
+            1,
+            6
+        ],
+        "SRAM_Act": [
+            11,
+            3
+        ],
+        "IO_Controller": [
+            3,
+            14
+        ]
+    }
+}

@@ -1,0 +1,18 @@
+# Core Deep Learning Framework
+torch>=2.0.0
+
+# Scientific & Array Computing
+numpy>=1.24.0
+
+# Computer Vision & Real-Time Dashboard Rendering
+opencv-python>=4.8.0
+
+# Video Encoding (H.264 MP4 Export)
+imageio>=2.31.0
+imageio-ffmpeg>=0.4.8
+
+# Plotting & Architecture Diagram Generation
+matplotlib>=3.7.0
+
+# Notebook Display & HTML In-Memory Visualizer (Optional for CLI, required for Colab/Jupyter)
+ipython>=8.12.0

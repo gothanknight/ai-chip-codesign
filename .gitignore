@@ -1,0 +1,24 @@
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch checkpoints and model binaries
+*.pt
+*.pth
+
+# Virtual environments
+venv/
+env/
+.env
+
+# Jupyter & Google Colab checkpoints
+.ipynb_checkpoints/
+
+# Operating system artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Large video files (keep untracked if >25MB; your .gif and .jpg assets will still be tracked)
+*.mp4
